@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Akhil</h1>
 <h3 align="center">A Data Science Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
@@ -13,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/akhil.madhavan.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhil.madhavan.94" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akhil-a-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil-a-m" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
